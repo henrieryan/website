@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to SendNudesTo.Me (A Jekyll Site!)"
 date:   2017-04-03 20:48:59 -0700
 categories: jekyll update
 ---
